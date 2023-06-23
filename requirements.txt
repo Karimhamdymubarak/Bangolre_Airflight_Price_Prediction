@@ -1,0 +1,6 @@
+category_encoders==2.5.0
+joblib==1.1.0
+pandas==2.0.1
+scikit_learn==1.2.2
+streamlit==1.11.1
+xgboost==1.6.1
